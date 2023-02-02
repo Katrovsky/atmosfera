@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://katrovsky.github.io/atmosfera/sitemap.xml

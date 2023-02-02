@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Atmosfera.fun</title>
+    <link href="https://katrovsky.github.io/atmosfera/feed.xml" rel="self" />
+    <link href="https://katrovsky.github.io/atmosfera" />
+    <updated>2023-02-02T22:28:07+04:00</updated>
+    <author>
+        <name>Key</name>
+    </author>
+    <id>https://katrovsky.github.io/atmosfera</id>
+
+    <entry>
+        <title>Бестиарий</title>
+        <author>
+            <name>Key</name>
+        </author>
+        <link href="https://katrovsky.github.io/atmosfera/bestiariy/"/>
+        <id>https://katrovsky.github.io/atmosfera/bestiariy/</id>
+        <media:content url="https://katrovsky.github.io/atmosfera/media/posts/2/mutants.jpg" medium="image" />
+            <category term="мутанты"/>
+
+        <updated>2023-02-02T22:22:16+04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://katrovsky.github.io/atmosfera/media/posts/2/mutants.jpg" alt="Мутанты" />
+                    Кровосос Псевдогигант Бюрер Изгой Плоть Снорк Мутировавший кабан Контролёр Тарк Химера Шаблон оформления: Название, особенности, описание Места обитания: Примечания, если они проверены и имеют место для упоминания.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://katrovsky.github.io/atmosfera/media/posts/2/mutants.jpg" class="type:primaryImage" alt="Мутанты" /></p>
+                <ul>
+<li>Кровосос</li>
+<li>Псевдогигант</li>
+<li>Бюрер</li>
+<li>Изгой</li>
+<li>Плоть</li>
+<li>Снорк</li>
+<li>Мутировавший кабан</li>
+<li>Контролёр</li>
+<li>Тарк</li>
+<li>Химера</li>
+</ul>
+<p>Шаблон оформления:<br>Название, особенности, описание</p>
+<p>Места обитания:</p>
+<ul>
+<li>Чернарусь:</li>
+<li>Припять:</li>
+</ul>
+<p>Примечания, если они проверены и имеют место для упоминания.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Lorem Ipsum</title>
+        <author>
+            <name>Key</name>
+        </author>
+        <link href="https://katrovsky.github.io/atmosfera/lorem-ipsum/"/>
+        <id>https://katrovsky.github.io/atmosfera/lorem-ipsum/</id>
+        <media:content url="https://katrovsky.github.io/atmosfera/media/posts/1/url2" medium="image" />
+
+        <updated>2023-02-02T22:28:07+04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://katrovsky.github.io/atmosfera/media/posts/1/url2" alt="" />
+                    "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..." "Нет никого, кто любил бы боль саму по себе, кто искал бы её и кто хотел бы иметь её просто потому, что это боль.." Lorem ipsum dolor sit amet, consectetur adipiscing&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://katrovsky.github.io/atmosfera/media/posts/1/url2" class="type:primaryImage" alt="" /></p>
+                <p>"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..." "Нет никого, кто любил бы боль саму по себе, кто искал бы её и кто хотел бы иметь её просто потому, что это боль.."</p>
+<p> </p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis erat lorem. Aenean sed augue sed quam sollicitudin euismod viverra vitae nunc. Integer suscipit mattis quam in viverra. Nam sodales libero et magna fermentum dignissim. Aenean vitae arcu porttitor neque blandit mollis. Pellentesque blandit posuere aliquet. Nunc facilisis neque justo, nec congue est efficitur ut. Duis quis turpis a lacus fringilla suscipit eleifend ut lacus. Aenean condimentum, tortor vitae fermentum blandit, neque erat consectetur erat, vel viverra urna lectus et nibh. Vestibulum efficitur efficitur felis, sit amet eleifend mauris pharetra in. Morbi porta eleifend ligula, eu hendrerit odio consectetur vitae. Aenean pulvinar aliquet odio egestas interdum. In maximus, quam quis pharetra commodo, erat erat feugiat ligula, a fermentum lacus felis sagittis diam.</p>
+<p>Aliquam accumsan, nisi a tristique tempor, arcu sem mollis tellus, nec molestie est mauris ac turpis. Aenean eget vestibulum nunc. Pellentesque ornare, justo at aliquam congue, quam dui mattis augue, at vulputate urna nunc sit amet leo. Maecenas pretium in turpis vel rhoncus. Praesent consequat nec ex nec ornare. Phasellus nec elit a nisi lacinia venenatis non ut tellus. Aliquam urna nibh, facilisis in ornare non, blandit a metus. Fusce eros neque, fermentum ut dictum id, faucibus eget nibh. Quisque ultrices dolor sagittis enim egestas, quis ullamcorper lacus mattis. Ut gravida pretium bibendum. Quisque iaculis dignissim ante sit amet bibendum. Suspendisse id metus at nibh tincidunt congue. Morbi pharetra porttitor augue eu rutrum. Morbi lacus tortor, tristique quis auctor vitae, efficitur vitae urna. Mauris sed egestas neque, quis tempus enim. Duis vehicula metus sit amet pellentesque condimentum.</p>
+<p>Maecenas quis interdum elit, vel cursus neque. Quisque ut massa lacus. Proin porta eros semper, iaculis velit sed, commodo augue. Quisque vitae mollis dui, at pellentesque mauris. Sed et nibh cursus, tincidunt purus nec, hendrerit velit. Donec eu augue leo. Quisque pretium, nisl ac accumsan eleifend, arcu velit ultrices sapien, non maximus libero justo at lacus. Nunc nec viverra ante. Duis eleifend cursus nibh nec sagittis.</p>
+<p>Quisque eu mollis elit. Suspendisse sagittis fringilla dui non tristique. Ut rhoncus, nisl at aliquam volutpat, tellus ipsum gravida neque, a lacinia est tellus sed justo. Praesent vel lacinia leo. Praesent aliquet metus sit amet dolor imperdiet, quis tempor massa ullamcorper. Vivamus fermentum lacus felis, eget suscipit nulla dictum a. Cras augue ex, varius a aliquet eget, pretium non lectus. Pellentesque blandit rutrum auctor. Nulla maximus eros vitae tristique ultricies. Donec mattis felis mi, quis volutpat nisi vestibulum sed. Suspendisse fermentum ante in odio placerat, in fringilla metus tincidunt. Vestibulum vehicula laoreet mollis. Maecenas id lorem nunc. Mauris ullamcorper, nisi eu hendrerit aliquam, lacus mi semper metus, eget vestibulum risus nunc vitae nisi. Duis elementum ligula at lacus euismod tincidunt. Mauris scelerisque orci a sollicitudin bibendum.</p>
+<p>Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec rhoncus mi sit amet lacinia pretium. Aenean non nisl ut mauris venenatis consectetur. Praesent eget ante vel dui viverra pretium. Nullam feugiat vulputate urna, at tristique augue. Nulla ut nisi sed eros rutrum lobortis. Sed sollicitudin condimentum urna. Sed rhoncus elit nec dolor mattis commodo. Integer ac massa consectetur, accumsan ipsum eu, suscipit est. Etiam ornare dolor mauris, ullamcorper scelerisque tortor sollicitudin nec. Sed vitae justo semper lectus facilisis pulvinar molestie ut libero. Nulla sed consequat tellus. Cras tincidunt eget tellus pretium fermentum. Phasellus interdum imperdiet risus vel porttitor.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

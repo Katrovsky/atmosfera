@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://katrovsky.github.io/atmosfera/artefakty/",
+            "url": "https://katrovsky.github.io/atmosfera/artefakty/",
+            "title": "Артефакты",
+            "summary": "Наверное, это будет одной из самых популярных записей на сайте. Здесь будет либо табличное описание, что менее вероятно, либо список. Также, как и везде, шаблон: название, внешний вид, описание (это я и сам могу дополнить), эффекты.",
+            "content_html": "<p>Наверное, это будет одной из самых популярных записей на сайте. Здесь будет либо табличное описание, что менее вероятно, либо список.<br>Также, как и везде, шаблон: название, внешний вид, описание (это я и сам могу дополнить), эффекты.</p>",
+            "image": "https://katrovsky.github.io/atmosfera/media/posts/4/10001",
+            "author": {
+                "name": "Key"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-03T00:00:12+04:00",
+            "date_modified": "2023-02-03T00:00:12+04:00"
+        },
+        {
             "id": "https://katrovsky.github.io/atmosfera/anomalii/",
             "url": "https://katrovsky.github.io/atmosfera/anomalii/",
             "title": "Аномалии",

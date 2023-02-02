@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://katrovsky.github.io/atmosfera/anomalii/",
+            "url": "https://katrovsky.github.io/atmosfera/anomalii/",
+            "title": "Аномалии",
+            "summary": "Шаблон заполнения: название Фотография/скриншот Описание Артефакты, которые спавнились в аномалии",
+            "content_html": "<p>Шаблон заполнения:</p>\n<ul>\n<li>название</li>\n<li>Фотография/скриншот</li>\n<li>Описание</li>\n<li>Артефакты, которые спавнились в аномалии</li>\n</ul>",
+            "image": "https://katrovsky.github.io/atmosfera/media/posts/3/10001",
+            "author": {
+                "name": "Key"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-02T23:54:09+04:00",
+            "date_modified": "2023-02-02T23:54:09+04:00"
+        },
+        {
             "id": "https://katrovsky.github.io/atmosfera/bestiariy/",
             "url": "https://katrovsky.github.io/atmosfera/bestiariy/",
             "title": "Бестиарий",

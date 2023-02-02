@@ -3,12 +3,41 @@
     <title>Atmosfera.fun</title>
     <link href="https://katrovsky.github.io/atmosfera/feed.xml" rel="self" />
     <link href="https://katrovsky.github.io/atmosfera" />
-    <updated>2023-02-02T22:28:07+04:00</updated>
+    <updated>2023-02-02T23:54:09+04:00</updated>
     <author>
         <name>Key</name>
     </author>
     <id>https://katrovsky.github.io/atmosfera</id>
 
+    <entry>
+        <title>Аномалии</title>
+        <author>
+            <name>Key</name>
+        </author>
+        <link href="https://katrovsky.github.io/atmosfera/anomalii/"/>
+        <id>https://katrovsky.github.io/atmosfera/anomalii/</id>
+        <media:content url="https://katrovsky.github.io/atmosfera/media/posts/3/10001" medium="image" />
+
+        <updated>2023-02-02T23:54:09+04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://katrovsky.github.io/atmosfera/media/posts/3/10001" alt="" />
+                    Шаблон заполнения: название Фотография/скриншот Описание Артефакты, которые спавнились в аномалии
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://katrovsky.github.io/atmosfera/media/posts/3/10001" class="type:primaryImage" alt="" /></p>
+                <p>Шаблон заполнения:</p>
+<ul>
+<li>название</li>
+<li>Фотография/скриншот</li>
+<li>Описание</li>
+<li>Артефакты, которые спавнились в аномалии</li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Бестиарий</title>
         <author>

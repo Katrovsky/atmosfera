@@ -3,7 +3,7 @@
     <title>Atmosfera.fun</title>
     <link href="https://katrovsky.github.io/atmosfera/feed.xml" rel="self" />
     <link href="https://katrovsky.github.io/atmosfera" />
-    <updated>2023-02-03T00:00:12+04:00</updated>
+    <updated>2023-02-03T00:01:28+04:00</updated>
     <author>
         <name>Key</name>
     </author>
@@ -110,18 +110,18 @@
         </author>
         <link href="https://katrovsky.github.io/atmosfera/lorem-ipsum/"/>
         <id>https://katrovsky.github.io/atmosfera/lorem-ipsum/</id>
-        <media:content url="https://katrovsky.github.io/atmosfera/media/posts/1/url2" medium="image" />
+        <media:content url="https://katrovsky.github.io/atmosfera/media/posts/1/loren21.png" medium="image" />
 
-        <updated>2023-02-02T22:28:07+04:00</updated>
+        <updated>2023-02-03T00:01:28+04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://katrovsky.github.io/atmosfera/media/posts/1/url2" alt="" />
+                        <img src="https://katrovsky.github.io/atmosfera/media/posts/1/loren21.png" alt="" />
                     "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..." "Нет никого, кто любил бы боль саму по себе, кто искал бы её и кто хотел бы иметь её просто потому, что это боль.." Lorem ipsum dolor sit amet, consectetur adipiscing&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://katrovsky.github.io/atmosfera/media/posts/1/url2" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://katrovsky.github.io/atmosfera/media/posts/1/loren21.png" class="type:primaryImage" alt="" /></p>
                 <p>"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..." "Нет никого, кто любил бы боль саму по себе, кто искал бы её и кто хотел бы иметь её просто потому, что это боль.."</p>
 <p> </p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis erat lorem. Aenean sed augue sed quam sollicitudin euismod viverra vitae nunc. Integer suscipit mattis quam in viverra. Nam sodales libero et magna fermentum dignissim. Aenean vitae arcu porttitor neque blandit mollis. Pellentesque blandit posuere aliquet. Nunc facilisis neque justo, nec congue est efficitur ut. Duis quis turpis a lacus fringilla suscipit eleifend ut lacus. Aenean condimentum, tortor vitae fermentum blandit, neque erat consectetur erat, vel viverra urna lectus et nibh. Vestibulum efficitur efficitur felis, sit amet eleifend mauris pharetra in. Morbi porta eleifend ligula, eu hendrerit odio consectetur vitae. Aenean pulvinar aliquet odio egestas interdum. In maximus, quam quis pharetra commodo, erat erat feugiat ligula, a fermentum lacus felis sagittis diam.</p>

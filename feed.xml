@@ -3,12 +3,30 @@
     <title>Atmosfera.fun</title>
     <link href="https://katrovsky.github.io/atmosfera/feed.xml" rel="self" />
     <link href="https://katrovsky.github.io/atmosfera" />
-    <updated>2023-02-03T04:03:04+04:00</updated>
+    <updated>2023-02-03T05:37:27+04:00</updated>
     <author>
         <name>Key</name>
     </author>
     <id>https://katrovsky.github.io/atmosfera</id>
 
+    <entry>
+        <title>Карты Dayz</title>
+        <author>
+            <name>Key</name>
+        </author>
+        <link href="https://katrovsky.github.io/atmosfera/karty-dayz/"/>
+        <id>https://katrovsky.github.io/atmosfera/karty-dayz/</id>
+        <media:content url="https://katrovsky.github.io/atmosfera/media/posts/7/maxresdefault1.jpg" medium="image" />
+
+        <updated>2023-02-03T05:11:53+04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://katrovsky.github.io/atmosfera/media/posts/7/maxresdefault1.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="post__iframe"><iframe loading="lazy" width="100%" height="auto" style="width: 100%; height: auto;" src="https://dayz.xam.nu/" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Credentials</title>
         <author>
@@ -16,15 +34,18 @@
         </author>
         <link href="https://katrovsky.github.io/atmosfera/credentials/"/>
         <id>https://katrovsky.github.io/atmosfera/credentials/</id>
+        <media:content url="https://katrovsky.github.io/atmosfera/media/posts/6/i-used-midjourney-to-create-some-dayz-inspired-art-thought-v0-b48dfrr7h3n911.jpg" medium="image" />
 
-        <updated>2023-02-03T04:03:04+04:00</updated>
+        <updated>2023-02-03T05:36:43+04:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://katrovsky.github.io/atmosfera/media/posts/6/i-used-midjourney-to-create-some-dayz-inspired-art-thought-v0-b48dfrr7h3n911.jpg" alt="" />
                     На этой странице размещены никнеймы тех людей, несущие ответственность за то, что этот сайт существует в том виде, в котором он сейчас. Этот список может только дополняться, но не уменьшаться. Очерёдность составления списка не коррелирует с вкладом в создание сайта. Да будет так. Maks_Kombat Турбыч&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://katrovsky.github.io/atmosfera/media/posts/6/i-used-midjourney-to-create-some-dayz-inspired-art-thought-v0-b48dfrr7h3n911.jpg" class="type:primaryImage" alt="" /></p>
                 <p>На этой странице размещены никнеймы тех людей, несущие ответственность за то, что этот сайт существует в том виде, в котором он сейчас. Этот список может только дополняться, но не уменьшаться. Очерёдность составления списка не коррелирует с вкладом в создание сайта.</p>
 <p>Да будет так.</p>
 <ul>
@@ -43,15 +64,18 @@
         </author>
         <link href="https://katrovsky.github.io/atmosfera/o-proekte/"/>
         <id>https://katrovsky.github.io/atmosfera/o-proekte/</id>
+        <media:content url="https://katrovsky.github.io/atmosfera/media/posts/5/456943-dayz-wallpapers-1920x1080-for-computer1.jpg" medium="image" />
 
-        <updated>2023-02-03T03:51:32+04:00</updated>
+        <updated>2023-02-03T05:37:27+04:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://katrovsky.github.io/atmosfera/media/posts/5/456943-dayz-wallpapers-1920x1080-for-computer1.jpg" alt="" />
                     Сайт был создан для того, чтобы собрать здесь информацию, которая в формате Discord может теряться в переписке, разных каналах, группах и категориях. Он создан игроками для игроков, не имеет ни пола, ни имени, ни лица. Наполнение сайта материалами происходит не само по себе, это делают&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://katrovsky.github.io/atmosfera/media/posts/5/456943-dayz-wallpapers-1920x1080-for-computer1.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Сайт был создан для того, чтобы собрать здесь информацию, которая в формате Discord может теряться в переписке, разных каналах, группах и категориях.<br>Он создан игроками для игроков, не имеет ни пола, ни имени, ни лица. Наполнение сайта материалами происходит не само по себе, это делают живые люди, упоминание о которых вы можете увидеть в Credentials.</p>
             ]]>
         </content>

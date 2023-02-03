@@ -3,12 +3,59 @@
     <title>Atmosfera.fun</title>
     <link href="https://katrovsky.github.io/atmosfera/feed.xml" rel="self" />
     <link href="https://katrovsky.github.io/atmosfera" />
-    <updated>2023-02-03T00:01:28+04:00</updated>
+    <updated>2023-02-03T04:03:04+04:00</updated>
     <author>
         <name>Key</name>
     </author>
     <id>https://katrovsky.github.io/atmosfera</id>
 
+    <entry>
+        <title>Credentials</title>
+        <author>
+            <name>Key</name>
+        </author>
+        <link href="https://katrovsky.github.io/atmosfera/credentials/"/>
+        <id>https://katrovsky.github.io/atmosfera/credentials/</id>
+
+        <updated>2023-02-03T04:03:04+04:00</updated>
+            <summary>
+                <![CDATA[
+                    На этой странице размещены никнеймы тех людей, несущие ответственность за то, что этот сайт существует в том виде, в котором он сейчас. Этот список может только дополняться, но не уменьшаться. Очерёдность составления списка не коррелирует с вкладом в создание сайта. Да будет так. Maks_Kombat Турбыч&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>На этой странице размещены никнеймы тех людей, несущие ответственность за то, что этот сайт существует в том виде, в котором он сейчас. Этот список может только дополняться, но не уменьшаться. Очерёдность составления списка не коррелирует с вкладом в создание сайта.</p>
+<p>Да будет так.</p>
+<ul>
+<li>Maks_Kombat</li>
+<li>Турбыч</li>
+<li>Lando</li>
+<li><span class="username-3JLfHz username-28Thtk">Veter (Эд)</span></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>О проекте</title>
+        <author>
+            <name>Key</name>
+        </author>
+        <link href="https://katrovsky.github.io/atmosfera/o-proekte/"/>
+        <id>https://katrovsky.github.io/atmosfera/o-proekte/</id>
+
+        <updated>2023-02-03T03:51:32+04:00</updated>
+            <summary>
+                <![CDATA[
+                    Сайт был создан для того, чтобы собрать здесь информацию, которая в формате Discord может теряться в переписке, разных каналах, группах и категориях. Он создан игроками для игроков, не имеет ни пола, ни имени, ни лица. Наполнение сайта материалами происходит не само по себе, это делают&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Сайт был создан для того, чтобы собрать здесь информацию, которая в формате Discord может теряться в переписке, разных каналах, группах и категориях.<br>Он создан игроками для игроков, не имеет ни пола, ни имени, ни лица. Наполнение сайта материалами происходит не само по себе, это делают живые люди, упоминание о которых вы можете увидеть в Credentials.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Артефакты</title>
         <author>

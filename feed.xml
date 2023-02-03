@@ -3,7 +3,7 @@
     <title>Atmosfera.fun</title>
     <link href="https://katrovsky.github.io/atmosfera/feed.xml" rel="self" />
     <link href="https://katrovsky.github.io/atmosfera" />
-    <updated>2023-02-03T05:37:27+04:00</updated>
+    <updated>2023-02-03T05:39:20+04:00</updated>
     <author>
         <name>Key</name>
     </author>
@@ -66,7 +66,7 @@
         <id>https://katrovsky.github.io/atmosfera/o-proekte/</id>
         <media:content url="https://katrovsky.github.io/atmosfera/media/posts/5/456943-dayz-wallpapers-1920x1080-for-computer1.jpg" medium="image" />
 
-        <updated>2023-02-03T05:37:27+04:00</updated>
+        <updated>2023-02-03T05:39:20+04:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://katrovsky.github.io/atmosfera/media/posts/5/456943-dayz-wallpapers-1920x1080-for-computer1.jpg" alt="" />
@@ -76,7 +76,7 @@
         <content type="html">
             <![CDATA[
                     <p><img src="https://katrovsky.github.io/atmosfera/media/posts/5/456943-dayz-wallpapers-1920x1080-for-computer1.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Сайт был создан для того, чтобы собрать здесь информацию, которая в формате Discord может теряться в переписке, разных каналах, группах и категориях.<br>Он создан игроками для игроков, не имеет ни пола, ни имени, ни лица. Наполнение сайта материалами происходит не само по себе, это делают живые люди, упоминание о которых вы можете увидеть в Credentials.</p>
+                <p>Сайт был создан для того, чтобы собрать здесь информацию, которая в формате Discord может теряться в переписке, разных каналах, группах и категориях.<br>Он создан игроками для игроков, не имеет ни пола, ни имени, ни лица. Наполнение сайта материалами происходит не само по себе, это делают живые люди, упоминание о которых вы можете увидеть в <a href="https://katrovsky.github.io/atmosfera/credentials/">Credentials</a>.</p>
             ]]>
         </content>
     </entry>

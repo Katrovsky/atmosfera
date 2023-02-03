@@ -3,7 +3,7 @@
     <title>Atmosfera.fun</title>
     <link href="https://katrovsky.github.io/atmosfera/feed.xml" rel="self" />
     <link href="https://katrovsky.github.io/atmosfera" />
-    <updated>2023-02-03T05:39:20+04:00</updated>
+    <updated>2023-02-03T05:42:26+04:00</updated>
     <author>
         <name>Key</name>
     </author>
@@ -18,12 +18,12 @@
         <id>https://katrovsky.github.io/atmosfera/karty-dayz/</id>
         <media:content url="https://katrovsky.github.io/atmosfera/media/posts/7/maxresdefault1.jpg" medium="image" />
 
-        <updated>2023-02-03T05:11:53+04:00</updated>
+        <updated>2023-02-03T05:42:26+04:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://katrovsky.github.io/atmosfera/media/posts/7/maxresdefault1.jpg" class="type:primaryImage" alt="" /></p>
-                <div class="post__iframe"><iframe loading="lazy" width="100%" height="auto" style="width: 100%; height: auto;" src="https://dayz.xam.nu/" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+                <div class="post__iframe"><iframe loading="lazy" width="100%" height="auto" src="https://dayz.xam.nu/"></iframe></div>
             ]]>
         </content>
     </entry>

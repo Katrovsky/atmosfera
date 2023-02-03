@@ -14,7 +14,7 @@
             "id": "https://katrovsky.github.io/atmosfera/karty-dayz/",
             "url": "https://katrovsky.github.io/atmosfera/karty-dayz/",
             "title": "Карты Dayz",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"auto\" style=\"width: 100%; height: auto;\" src=\"https://dayz.xam.nu/\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"auto\" src=\"https://dayz.xam.nu/\"></iframe></div>",
             "image": "https://katrovsky.github.io/atmosfera/media/posts/7/maxresdefault1.jpg",
             "author": {
                 "name": "Key"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2023-02-03T04:11:45+04:00",
-            "date_modified": "2023-02-03T05:11:53+04:00"
+            "date_modified": "2023-02-03T05:42:26+04:00"
         },
         {
             "id": "https://katrovsky.github.io/atmosfera/credentials/",
